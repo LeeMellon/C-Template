@@ -26,7 +26,7 @@ namespace GENERICTEMPLATEXXXXXXXXXXXXXXXXXXXXXXXXX
         public void Configure(IApplicationBuilder app)
         {
             app.UseDeveloperExceptionPage();
-            app.Use.StaticFiles();
+            app.UseStaticFiles();
             app.UseMvc(routes =>
             {
                 routes.MapRoute(

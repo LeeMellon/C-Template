@@ -1,13 +1,14 @@
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Mvc;
 using System;
 
 
 namespace GENERICTEMPLATEXXXXXXXXXXXXXXXXXXXXX.Models
 {
-    public class GENERTIC_TEMPLATEXXXXXXXX
+    public class GENERTICTEMPLATEXXXXXXXX
     {
 
 
     }
 
-{
+}
